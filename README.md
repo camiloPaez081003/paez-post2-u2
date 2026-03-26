@@ -13,7 +13,7 @@ Formulario de registro universitario desarrollado como laboratorio de la Unidad 
 
 ## Cómo ejecutar
 
-1. Clonar: `git clone https://github.com/camiloPaez081003/apellido-post2-u2.git`
+1. Clonar: `git clone https://github.com/camiloPaez081003/paez-post2-u2.git`
 2. Abrir en VS Code → clic derecho en `registro.html` → **Open with Live Server**
 3. Navegar a `http://localhost:5500/registro.html`
 
